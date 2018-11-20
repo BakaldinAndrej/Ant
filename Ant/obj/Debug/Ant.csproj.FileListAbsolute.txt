@@ -1,0 +1,10 @@
+C:\Users\bbEtman\source\repos\Ant\Ant\bin\Debug\Ant.exe.config
+C:\Users\bbEtman\source\repos\Ant\Ant\bin\Debug\Ant.exe
+C:\Users\bbEtman\source\repos\Ant\Ant\bin\Debug\Ant.pdb
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.csprojResolveAssemblyReference.cache
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.Form1.resources
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.Properties.Resources.resources
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.csproj.GenerateResource.Cache
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.csproj.CoreCompileInputs.cache
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.exe
+C:\Users\bbEtman\source\repos\Ant\Ant\obj\Debug\Ant.pdb
